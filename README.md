@@ -1,9 +1,5 @@
 # Olá, meu nome é Carlos! 👋
 
-   - 📒 Estudante de Desenvolvimento de Sistemas na ETEC-CT
-   - 🌐 Me dedicando à Programação Web
-   - 📚 Atualmente estou estudando Node.js, Java e SQL.
-
 ## Principais tecnologias (ainda aprendendo rs) 🚀
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
